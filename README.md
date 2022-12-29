@@ -105,7 +105,7 @@
 ![画面収録-2022-06-09-15.15.07.gif](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/2702119/507524cd-a42f-7e9e-3777-34dd03714545.gif)
 
 
-```index cube.html
+```index_cube.html
 <!DOCTYPE html>
 <html>
   <head>
